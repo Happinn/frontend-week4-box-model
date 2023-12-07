@@ -1,0 +1,23 @@
+li{
+    display: inline-block;
+    width: 40%;
+}
+
+h2,p{
+    background-color: rgb(113, 180, 45);
+}
+/*  
+
+section{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: 200px;
+    column-gap: 15px; 
+}
+*/
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    column-gap: 25px;
+}
